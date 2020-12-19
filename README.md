@@ -18,8 +18,12 @@
 ![DaeHoon's github stats](https://github-readme-stats.vercel.app/api?username=daehoon12&show_icons=true)           
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/haero_kim/)](https://www.instagram.com/return_18/)
 
+## 학력  
+반포고등학교 졸업 (2009.03 ~ 2012.02)  
+상명대학교 재학중 (2014.03 ~ 2021.02 졸업예정)  
+
 ## 대외활동  
-## 2019년 상명대학교 프로그래밍 동아리 Inyro 회장  
+**2019년 상명대학교 프로그래밍 동아리 Inyro 회장** 
 
 [CNN을 활용한 손글씨 교정 웹 사이트]: https://github.com/daehoon12/hand_writing_correction_website  
 
