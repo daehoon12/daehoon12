@@ -1,4 +1,5 @@
 # 소개  
+<img src="/daehoon12/blob/main/깃허브%20프로필%20사진.jpg" width="50%" height="50%">
 ### DAEHOON KANG (강대훈), 28, 🇰🇷  
 > 💻 **AI**, especially **Marchine Learning** and **Computer Vision**<br>
 > 🔥 Developed several **AI Project** and Studying the **Marchine Learning, Deep Learning** and **Computer Sciences**<br>
