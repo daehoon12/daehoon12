@@ -1,6 +1,6 @@
-## HELLO!(JIMIN AN, 23, 🇰🇷)
-> 💻 Interested in **Android app** and **AI**, especially **Deep Learning** and **NLP**<br>
-> 🔥 Developed several **Android Apps with Java**, **AI Project** and Studying the **Deep Learning, NLP** and **Algorithm**<br>
+## DAEHOON KANG (강대훈), 28, 🇰🇷
+> 💻 **AI**, especially **Marchine Learning** and **Computer Vision**<br>
+> 🔥 Developed several **AI Project** and Studying the **Marchine Learning Deep Learning** and **Computer Sciences**<br>
  
 ### Languages and Frameworks
 
