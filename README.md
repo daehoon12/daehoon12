@@ -24,9 +24,9 @@
 ## Projects  
 
 ### CNN을 활용한 손글씨 교정 웹 사이트  
-[참조 링크 URL]: https://github.com/daehoon12/hand_writing_correction_website
+[참조 링크 URL]: https://github.com/daehoon12/hand_writing_correction_website  
 - Keras 모델 프레임워크, Node.js 웹 프레임워크 기반의 어플리케이션  
-- MNIST DataSet 사용
+- MNIST DataSet 사용  
 
 ## Studys  
 - 
