@@ -21,11 +21,14 @@
 ## 대외활동  
 - 2019년 상명대학교 프로그래밍 동아리 Inyro 회장  
 
+[Link]: https://github.com/daehoon12/hand_writing_correction_website  
+
 ## Projects  
 
 ### CNN을 활용한 손글씨 교정 웹 사이트  
 Link  
-[Link]: https://github.com/daehoon12/hand_writing_correction_website  
+
+
 - Keras 모델 프레임워크, Node.js 웹 프레임워크 기반의 어플리케이션  
 - MNIST DataSet 사용  
 
