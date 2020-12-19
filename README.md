@@ -19,7 +19,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/haero_kim/)](https://www.instagram.com/return_18/)
 
 ## 대외활동  
-- 2019년 상명대학교 프로그래밍 동아리 Inyro 회장  
+## 2019년 상명대학교 프로그래밍 동아리 Inyro 회장  
 
 [CNN을 활용한 손글씨 교정 웹 사이트]: https://github.com/daehoon12/hand_writing_correction_website  
 
@@ -31,16 +31,28 @@
 - MNIST DataSet 사용  
 
 ## Studys 
-[알고리즘 문제풀이]: https://github.com/daehoon12/algorithm  
+
+[Computer Sciences] : https://github.com/daehoon12/computer_science  
+
+### [Computer Sciences]  
+- Data Structure, Algorithm, Network, OS, Database  
+- 수업 or 개인 공부하면서 배웠던 것을 적어놓은 Repository  
+
+[알고리즘 문제풀이]: https://github.com/daehoon12/algorithm    
 
 ### [알고리즘 문제풀이]  
+- C++, Python 언어로 백준, Programmers 문제 풀이  
 
 [Google Marchine Learinig BootCamp]: https://github.com/daehoon12/Google_Marchine_Learning_Bootcamp  
 
 ### [Google Marchine Learinig BootCamp]  
+- 구글 머신러닝 부트캠프에서 배웠던 내용  
+- Tensorflow 코드  
 
 ## TODO  
-- Computer Sciences 복습  
+- Computer Sciences 복습 (특히 자료구조, 알고리즘)    
 - Google Marchine Learinig Camp에서 배운 코세라 강의 복습  
 - 코세라에서 나온 논문 Tensorflow로 설계 해보기  
-- 눈에 띄는 Resume 만들기  
+- 눈에 띄는 Resume 만들기 
+- **2월 중반까지 취업하기!!!!!!!!!!!! 가장 중요함!!!!!!!**  
+
