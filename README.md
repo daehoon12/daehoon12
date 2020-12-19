@@ -36,7 +36,7 @@
 
 ## Studys 
 
-[Computer Sciences] : https://github.com/daehoon12/computer_science  
+[Computer Sciences]: https://github.com/daehoon12/computer_science  
 
 ### [Computer Sciences]  
 - Data Structure, Algorithm, Network, OS, Database  
