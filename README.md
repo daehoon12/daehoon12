@@ -26,8 +26,7 @@
 ## Projects  
 
 ### CNN을 활용한 손글씨 교정 웹 사이트  
-Link  
-
+[Link]  
 
 - Keras 모델 프레임워크, Node.js 웹 프레임워크 기반의 어플리케이션  
 - MNIST DataSet 사용  
