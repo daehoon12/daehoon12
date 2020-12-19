@@ -30,7 +30,6 @@ Link
 - MNIST DataSet 사용  
 
 ## Studys  
-- 
 
 ## TODO  
 - Computer Sciences 복습  
