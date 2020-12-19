@@ -45,6 +45,7 @@
 [CNN을 이용한 유튜브 유해 영상 판독]: https://github.com/daehoon12/capstone
 
 ### [CNN을 이용한 유튜브 유해 영상 판독]  
+
 - Tensorflow 모델 프레임워크, Django 웹 프레임워크 사용  
 - 2019년 상명대학교 졸업작품  
 
