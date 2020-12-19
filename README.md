@@ -25,6 +25,9 @@
 ## 대외활동  
 **2019년 상명대학교 프로그래밍 동아리 Inyro 회장** 
 
+## 자격증  
+- OPic IH  
+
 [CNN을 활용한 손글씨 교정 웹 사이트]: https://github.com/daehoon12/hand_writing_correction_website  
 
 ## Projects  
