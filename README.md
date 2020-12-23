@@ -79,7 +79,8 @@
 ## TODO  
 - Computer Sciences 복습 (특히 자료구조, 알고리즘)    
 - Google Marchine Learinig Camp에서 배운 코세라 강의 복습  
+- 매일 알고리즘 2문제  
 - 코세라에서 나온 논문 Tensorflow로 설계 해보기  
-- 눈에 띄는 Resume 만들기 
+- 눈에 띄는 Resume 만들기  
 - **2월 중반까지 취업하기!!!!!!!!!!!! 가장 중요함!!!!!!!**  
 
