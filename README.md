@@ -2,7 +2,7 @@
 
 <img src="https://github.com/daehoon12/daehoon12/blob/main/%EA%B9%83%ED%97%88%EB%B8%8C%20%ED%94%84%EB%A1%9C%ED%95%84%20%EC%82%AC%EC%A7%84.jpg" width="30%" height="30%">  
 
-### DAEHOON KANG (강대훈), 29, 🇰🇷  
+### DAEHOON KANG (강대훈), 1993.11.12, 🇰🇷  
 > 💻 **AI**, especially **Marchine Learning** and **Computer Vision**<br>
 > 🔥 Developed several **AI Project** and Studying the **Marchine Learning, Deep Learning** and **Computer Sciences**<br>
  
