@@ -32,6 +32,7 @@
 
 ## 자격증  
 [OPic IH]  
+TensorFlow Certificate  
 
 [CNN을 활용한 손글씨 교정 웹 사이트]: https://github.com/daehoon12/hand_writing_correction_website  
 
