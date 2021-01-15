@@ -28,15 +28,18 @@
 ## 대외활동  
 **2019년 상명대학교 프로그래밍 동아리 Inyro 회장** 
 
-[OPic IH]: https://raw.githubusercontent.com/daehoon12/OPIc/master/%EC%98%A4%ED%94%BD%20%EC%96%B4%ED%95%99%EC%A0%90%EC%88%98.jpg
-[TensorFlow Developer Certificate]: https://www.credential.net/e4936e79-313b-4c13-8562-339e8f49a527#gs.q3zpby
+[OPic IH]: https://raw.githubusercontent.com/daehoon12/OPIc/master/%EC%98%A4%ED%94%BD%20%EC%96%B4%ED%95%99%EC%A0%90%EC%88%98.jpg  
+[TensorFlow Developer Certificate]: https://www.credential.net/e4936e79-313b-4c13-8562-339e8f49a527#gs.q3zpby  
+
 ## 자격증  
-[OPic IH]  
 [TensorFlow Developer Certificate]  
 
-[CNN을 활용한 손글씨 교정 웹 사이트]: https://github.com/daehoon12/hand_writing_correction_website  
+## 외국어  
+[OPic IH]  
 
 ## Projects  
+
+[CNN을 활용한 손글씨 교정 웹 사이트]: https://github.com/daehoon12/hand_writing_correction_website  
 
 ### [CNN을 활용한 손글씨 교정 웹 사이트]  
 
