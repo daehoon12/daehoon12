@@ -51,6 +51,7 @@
 
 ### [GAN Style Transfer]  
 
+- 동영상의 Style을 Cycle GAN을 이용해 변환하는 프로그램  
 - Pytorch 모델 프레임워크  
 
 [CNN을 이용한 유튜브 유해 영상 판독]: https://github.com/daehoon12/capstone
