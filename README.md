@@ -54,6 +54,12 @@
 - 동영상의 Style을 Cycle GAN을 이용해 변환하는 프로그램  
 - Pytorch 모델 프레임워크  
 
+[대화형 키오스크 : Hello, Kiosk!] : https://github.com/daehoon12/ai_hub_idea_competition  
+
+### [대화형 키오스크 : Hello, Kiosk!]  
+
+- 인공지능 학습용 데이터 활용 아이디어 공모전   
+
 [CNN을 이용한 유튜브 유해 영상 판독]: https://github.com/daehoon12/capstone
 
 ### [CNN을 이용한 유튜브 유해 영상 판독]  
