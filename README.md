@@ -4,7 +4,7 @@
 
 ### DAEHOON KANG (강대훈), (1993.11.12), 🇰🇷  
 > 💻 **AI**, especially **Marchine Learning** and **Computer Vision**<br>
-> 🔥 Developed several **AI Project** and Studying the **Marchine Learning, Deep Learning** and **Computer Sciences**<br>
+> 🔥 Developed several **AI Project** and Studying the **Marchine Learning, Deep Learning** and **Computer Sciences**<br> 
  
 ## Languages and Frameworks  
 
