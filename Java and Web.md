@@ -105,3 +105,16 @@
 
 ![image](https://user-images.githubusercontent.com/32921115/111037090-f6ac9180-8465-11eb-9f23-e909b18384ad.png)
 
+## 17. MVC Pattern  
+- Model-View-Controller의 약자
+- Model : 어플리케이션의 데이터를 관리하는 부분 또는 로직 (뷰의 모델은 한 개만 있음) ex) 처리되는 알고리즘, DB 와 상호작용(CRUD Create Read Update Delete), 데이터 등  
+- View : 사용자가 보는 화면에 나타나는 부분을 관리 (모델에 대해서 뷰는 여러 개 있을 수 있음) ex) 사용자에게 “무엇”을 화면(UI)으로 보여줌
+- Controller : 사용자의 입력을 처리하고, Model과 View 사이에서 상호 작용을 할 수 있도록 지원, 즉 사용자로부터의 입력을 받고 Model 또는 View의 중개인 역할을 담당. (모델에 대해서 뷰는 여러 개 있을 수 있음)  
+
+![image](https://user-images.githubusercontent.com/32921115/111073935-25893d00-8524-11eb-995b-e6256ee8234e.png)
+
+## 18. DAO Pattern  
+- DB를 사용하는 방법이 변경되면 클라이언트의 수정이 많아져, 업무와 DBMS를 분리하기 위해 사용
+- 업무와 데이터 2계층을 분리하고, 서로 그 상태를 동일하게 유지(persistence)  
+- 
+
