@@ -113,6 +113,13 @@
 
 ![image](https://user-images.githubusercontent.com/32921115/111073935-25893d00-8524-11eb-995b-e6256ee8234e.png)
 
+## 17-1. Web과 MVC Pattern  
+1. 사용자가 웹사이트에 접속한다. (Uses)  
+2. Controller는 사용자가 요청한 웹페이지를 서비스 하기 위해서 모델을 호출한다. (Manipulates)  
+3. 모델은 데이터베이스나 파일과 같은 데이터 소스를 제어한 후에 그 결과를 리턴한다.  
+4. Controller는 Model이 리턴한 결과를 View에 반영한다. (Updates)  
+5. 데이터가 반영된 VIew는 사용자에게 보여진다. (Sees)  
+6. 
 ## 18. DAO Pattern  
 - DB를 사용하는 방법이 변경되면 클라이언트의 수정이 많아져, 업무와 DBMS를 분리하기 위해 사용
 - 업무와 데이터 2계층을 분리하고, 서로 그 상태를 동일하게 유지(persistence)  
