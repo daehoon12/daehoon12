@@ -123,5 +123,15 @@
 ## 18. DAO Pattern  
 - DB를 사용하는 방법이 변경되면 클라이언트의 수정이 많아져, 업무와 DBMS를 분리하기 위해 사용
 - 업무와 데이터 2계층을 분리하고, 서로 그 상태를 동일하게 유지(persistence)  
-- 
 
+## 19. Web Push & Pull based Approach  
+
+### 19-1. Pull  
+- 클라이언트가 서버에 요청을 보내고 응답을 받는 방식 (일반적인 형태), Active한 성격.  
+- 장점 : HTTP 메세지를 사용해 구현이 가능, 서버는 HTTP의 Stateless 상태 유지 가능  
+- 단점 : Consistency가 약함. 메세지 오버헤드가 높음.  
+
+### 19-2. Push  
+- 별도의 클라이언트의 요청 없이 서버에서 사용자에게 정보를 전달해주는 방식  
+- 장점 : 클라이언트는 가만히 있어도 됨. Tight Consistency.  
+- 단점 : Server는 클라이언트가 어떤 상태로 있는지 알아야 알림을 계속 보낼 수 있음. 즉 Stateless 특징을 가진 HTTP위에 State를 구현해야 한다.  
