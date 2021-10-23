@@ -45,25 +45,14 @@
 - MNIST DataSet 사용  
 - 2020년 제 14회 공개 SW 개발자 대회 참여 프로젝트  
 
-[GAN Style Transfer]: https://github.com/daehoon12/GAN-style-transfer  
+[가상화폐 자동매매 프로그램]: https://github.com/daehoon12/GAN-style-transfer  
 
-### [GAN Style Transfer]  
+### 가상화폐 자동매매 프로그램  
 
-- 동영상의 Style을 Cycle GAN을 이용해 변환하는 프로그램  
-- Pytorch 모델 프레임워크  
+- Server: Flask, Client: React  
+- 빗썸 API를 통해 백테스팅 후 타겟 가격을 설정한 뒤 자동매매 진행
 
-[대화형 키오스크 : Hello, Kiosk! (아이디어 공모전)]: https://github.com/daehoon12/ai_hub_idea_competition  
 
-### [대화형 키오스크 : Hello, Kiosk! (아이디어 공모전)]  
-
-- 인공지능 학습용 데이터 활용 아이디어 공모전   
-
-[CNN을 이용한 유튜브 유해 영상 판독]: https://github.com/daehoon12/capstone
-
-### [CNN을 이용한 유튜브 유해 영상 판독]  
-
-- Tensorflow 모델 프레임워크, Django 웹 프레임워크 사용  
-- 2019년 상명대학교 졸업작품  
 
 ## Studys 
 
