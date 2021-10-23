@@ -1,9 +1,8 @@
 # 소개   
 
 ### DAEHOON KANG (강대훈), (1993.11.12), 🇰🇷  
-> 💻 **AI**, especially **Marchine Learning** and **Computer Vision**<br>
-> 🔥 Developed several **AI Project** and Studying the **Marchine Learning, Deep Learning** and **Computer Sciences**<br> 
- 
+> 💻 **Backend Developer**<br>
+> 
 ## Languages and Frameworks  
 
 <code><img height="20" src="https://toppng.com/uploads/preview/c-programming-icon-c-programming-language-logo-11562945679duaxtn3yq0.png"></code>
@@ -47,11 +46,10 @@
 
 [가상화폐 자동매매 프로그램]: https://github.com/daehoon12/Coin_Auto_Trading
 
-### 가상화폐 자동매매 프로그램  
+### [가상화폐 자동매매 프로그램]  
 
 - Server: Flask, Client: React  
 - 빗썸 API를 통해 백테스팅 후 타겟 가격을 설정한 뒤 자동매매 진행
-
 
 
 ## Studys 
@@ -75,7 +73,5 @@
 
 ## TODO  
 - Computer Sciences 복습 (특히 자료구조, 알고리즘)    
-- Google Marchine Learinig Camp에서 배운 코세라 강의 복습  
 - 매일 알고리즘 2문제  
-- 코세라에서 나온 논문 Tensorflow로 설계 해보기  
 - 눈에 띄는 Resume 만들기  
