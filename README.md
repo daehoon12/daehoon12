@@ -45,7 +45,7 @@
 - MNIST DataSet 사용  
 - 2020년 제 14회 공개 SW 개발자 대회 참여 프로젝트  
 
-[가상화폐 자동매매 프로그램]: https://github.com/daehoon12/GAN-style-transfer  
+[가상화폐 자동매매 프로그램]: https://github.com/daehoon12/Coin_Auto_Trading
 
 ### 가상화폐 자동매매 프로그램  
 
