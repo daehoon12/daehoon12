@@ -20,7 +20,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=return_18)](https://solved.ac/return_18)  
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/haero_kim/)](https://www.instagram.com/return_18/)
 
-## 이력
+## 이력  
 MUST`IT 백엔드 개발자 (2021.12 ~)    
 
 ## 대외활동  
