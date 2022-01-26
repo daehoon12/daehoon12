@@ -20,9 +20,8 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=return_18)](https://solved.ac/return_18)  
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/haero_kim/)](https://www.instagram.com/return_18/)
 
-## 학력  
-반포고등학교 졸업 (2009.03 ~ 2012.02)  
-상명대학교 졸업 (2014.03 ~ 2021.02)  
+## 이력
+MUST`IT 백엔드 개발자 (2021.12 ~)    
 
 ## 대외활동  
 **2019년 상명대학교 프로그래밍 동아리 Inyro 회장** 
