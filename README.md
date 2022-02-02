@@ -16,7 +16,7 @@
 
 
 ![DaeHoon's github stats](https://github-readme-stats.vercel.app/api?username=daehoon12&show_icons=true)   
-[기술 블로그]: (https://velog.io/@daehoon12)  
+[기술 블로그]: https://velog.io/@daehoon12  
 [기술 블로그]  
 
 [![Solved.ac
