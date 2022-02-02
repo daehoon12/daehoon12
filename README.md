@@ -16,7 +16,8 @@
 
 
 ![DaeHoon's github stats](https://github-readme-stats.vercel.app/api?username=daehoon12&show_icons=true)   
-![기술 블로그](https://velog.io/@daehoon12)  
+[기술 블로그]: (https://velog.io/@daehoon12)  
+[기술 블로그]  
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=return_18)](https://solved.ac/return_18)  
