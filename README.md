@@ -37,14 +37,6 @@ MUST`IT 백엔드 개발자 (2021.12 ~)
 
 ## Projects  
 
-[CNN을 활용한 손글씨 교정 웹 사이트]: https://github.com/daehoon12/hand_writing_correction_website  
-
-### [CNN을 활용한 손글씨 교정 웹 사이트]  
-
-- Keras 모델 프레임워크, Node.js 웹 프레임워크 기반의 어플리케이션  
-- MNIST DataSet 사용  
-- 2020년 제 14회 공개 SW 개발자 대회 참여 프로젝트  
-
 [가상화폐 자동매매 프로그램]: https://github.com/daehoon12/Coin_Auto_Trading
 
 ### [가상화폐 자동매매 프로그램]  
@@ -66,13 +58,7 @@ MUST`IT 백엔드 개발자 (2021.12 ~)
 ### [알고리즘 문제풀이]  
 - C++, Python 언어로 백준, Programmers 문제 풀이  
 
-[Google Marchine Learinig BootCamp]: https://github.com/daehoon12/Google_Marchine_Learning_Bootcamp  
-
-### [Google Marchine Learinig BootCamp]  
-- 구글 머신러닝 부트캠프에서 배웠던 내용  
-- Tensorflow 코드  
 
 ## TODO  
 - Computer Sciences 복습 (특히 자료구조, 알고리즘)    
-- 매일 알고리즘 2문제  
 - 눈에 띄는 Resume 만들기  
