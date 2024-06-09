@@ -25,7 +25,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/haero_kim/)](https://www.instagram.com/return_18/)
 
 ## 이력  
-MUST`IT 백엔드 개발자 (2021.12 ~)    
+MUST`IT 백엔드 개발자 (2021.12 ~ 2024.06)    
 
 ## 대외활동  
 **2019년 상명대학교 프로그래밍 동아리 Inyro 회장** 
